@@ -1,0 +1,24 @@
+h1{
+	text-align: center;
+}
+body{
+	font-family:arial,sansserif;
+}
+table#game td{
+	background-color: beige;
+	height: 200px;
+	width: 200px;
+	border:solid saddlebrown 5px;
+	border-radius: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 60pt;
+}
+button#restart{
+	padding:10px;
+	background-color:grey;
+	font-size:20pt;
+	color:white;
+	font-family: algerian;
+	border-radius: 20px;
+}
